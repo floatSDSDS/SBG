@@ -8,7 +8,7 @@ conda env create -f GraphZAM/air.yml
 ```
 
 - prepare data
-  - download amazon data 
+  - download amazon data from https://jmcauley.ucsd.edu/data/amazon/
   - specify the input and output dir in `preprocessing/prepare_amazon.py`
   - run `preprocessing/prepare_amazon.py` for corresponding datasets
   - config dataset in `persearch.config.cfg_data` 
