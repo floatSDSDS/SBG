@@ -1,10 +1,10 @@
-## GraphZAM
+## SBG
 
 Source code of WWW 2022 Paper "Modeling User Behavior with Graph Convolution for Personalized Product Search".
 
 - environment
 ```shell script
-conda env create -f GraphZAM/air.yml
+conda env create -f SBG/air.yml
 ```
 
 - prepare data
